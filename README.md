@@ -40,8 +40,4 @@ Welcome to my GitHub! I’m a passionate learner, builder, and aspiring technolo
 
 ---
 
-## 📫 **Connect With Me**
-
-(Links to be added — GitHub, LinkedIn, Portfolio, etc.)
-
 Thanks for visiting my profile! 😊
